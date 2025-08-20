@@ -6,3 +6,4 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 timezone: 'America/New_York'
+future: true
