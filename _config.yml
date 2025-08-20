@@ -1,0 +1,7 @@
+title: My Cybersecurity Blog
+description: Documenting my progress in cybersecurity
+author: ADSEC117
+theme: jekyll-theme-minimal
+markdown: kramdown
+plugins:
+  - jekyll-feed
